@@ -1,0 +1,5 @@
+{
+  "name": "GCC Hoodie Photo Booth",
+  "description": "Upload a photo of your face, choose your favorite company hoodie, and use AI to generate a professional office portrait for your profile.",
+  "requestFramePermissions": []
+}
